@@ -1,18 +1,13 @@
-# <div style="text-align: center;">Projek Akhir Kecerdasan Buatan <br> Klasifikasi Pakaian</div>
+# <div align="center">Projek Akhir Kecerdasan Buatan <br> Klasifikasi Pakaian</div>
 
-<div style="text-align: center;">
+<div align="center">
     <a href="https://unmul.ac.id/">
         <img src="https://upload.wikimedia.org/wikipedia/id/8/83/Unmul_logo_low.svg" alt="Logo Universitas Mulawarman" width="200">
     </a>
 </div>
-<br>
 
 ## Deskripsi
 Projek ini merupakan program untuk melakukan klasifikasi pada gambar pakaian dengan menggunakan *deep learning*. Projek ini dibuat guna menyelesaikan tugas projek akhir dari praktikum Kecerdasan Buatan semester ganjil 2022.
-
-<br>
-
----
 
 ## Anggota Kelompok
 - 2009106085 - Tegar Fitrah Naba Atthoriq *(Ketua)*
@@ -21,10 +16,6 @@ Projek ini merupakan program untuk melakukan klasifikasi pada gambar pakaian den
     - Visualisasi Data
 - 2009106053 - Duta Vira Pradhana Dipa
     - Preprocessing
-
-<br>
-
----
 
 ## Dataset
 Dataset yang digunakan adalah
